@@ -1,0 +1,4 @@
+
+.ipynb_checkpoints/finding_donors-checkpoint.ipynb
+*.pyc
+.DS_Store
